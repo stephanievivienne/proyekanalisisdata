@@ -12,5 +12,7 @@ Dataset yang digunakan dalam proyek ini berasal dari Kaggle (https://www.kaggle.
 
 ## Tentang Saya
 Nama: Stephanie Vivienne Tantiyo
+
 Email: 6162001010@student.unpar.ac.id
+
 Dicoding ID: stephanievivienne
