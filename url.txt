@@ -1,0 +1,2 @@
+Link deploy: https://ghmygzf2jyproc3jubbzaz.streamlit.app/
+Link github: https://github.com/stephanievivienne/proyekanalisisdata
